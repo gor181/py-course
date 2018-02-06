@@ -1,38 +1,72 @@
 ---
-title: Test
-description: Test
+title: Test<aaa>qqq
+description: >-
+  TestTest<aaa>qqq
 
 ---
-## Sample exercise
+## "/><script>alert('sample')</script>
 
 ```yaml
 type: NormalExercise
 lang: python
 xp: 100
 skills: 2
+key: 387e89786b
 ```
 
+"/><script>alert('sample')</script>
 
 `@instructions`
+"/><script>alert('sample')</script>
 
 `@hint`
 
-`@pre_exercise_code`
-```{python}
+---
+## <<<New Test<aaa>qqq>>>
 
+```yaml
+type: NormalExercise
+lang: python
+xp: 100
+skills: 2
+key: 3cd1fd2870
 ```
 
-`@sample_code`
-```{python}
+`@instructions`
+Test<aaa>qqq
 
+---
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+
+xp: 
+
+key: fd225f721e
 ```
 
-`@solution`
-```{python}
+Test<aaa>qqq
 
+`@instructions`
+Test<aaa>qqq
+
+`@hint`
+
+---
+## "/><script>alert(1)</script>
+
+```yaml
+type: NormalExercise
+
+xp: 
+
+key: e8865ba7d7
 ```
 
-`@sct`
-```{python}
+"/><script>alert(1)</script>
 
-```
+`@instructions`
+"/><script>alert(2)</script>
+
+`@hint`
