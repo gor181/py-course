@@ -21,6 +21,12 @@ key: 387e89786b
 
 `@hint`
 
+`@sample_code`
+"/><script>alert('sample_code')</script>
+
+`@solution`
+"/><script>alert('solution')</script>
+
 ---
 ## <<<New Test<aaa>qqq>>>
 
