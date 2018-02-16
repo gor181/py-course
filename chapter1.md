@@ -3,6 +3,7 @@ title: Test<aaa>qqq
 description: >-
   TestTest<aaa>qqq
 
+
 ---
 ## "/><script>alert('sample')</script>
 
@@ -19,13 +20,19 @@ key: 387e89786b
 `@instructions`
 "/><script>alert('sample')</script>
 
-`@hint`
+
 
 `@sample_code`
+```{python}
 "/><script>alert('sample_code')</script>
-
+```
 `@solution`
+```{python}
 "/><script>alert('solution')</script>
+```
+
+
+
 
 ---
 ## <<<New Test<aaa>qqq>>>
@@ -38,8 +45,18 @@ skills: 2
 key: 3cd1fd2870
 ```
 
+
+
 `@instructions`
 Test<aaa>qqq
+
+
+
+
+
+
+
+
 
 ---
 ## Insert exercise title here
@@ -47,7 +64,7 @@ Test<aaa>qqq
 ```yaml
 type: NormalExercise
 
-xp: 
+xp: NaN
 
 key: fd225f721e
 ```
@@ -57,7 +74,13 @@ Test<aaa>qqq
 `@instructions`
 Test<aaa>qqq
 
-`@hint`
+
+
+
+
+
+
+
 
 ---
 ## "/><script>alert(1)</script>
@@ -65,7 +88,7 @@ Test<aaa>qqq
 ```yaml
 type: NormalExercise
 
-xp: 
+xp: NaN
 
 key: e8865ba7d7
 ```
@@ -75,4 +98,32 @@ key: e8865ba7d7
 `@instructions`
 "/><script>alert(2)</script>
 
-`@hint`
+
+
+
+
+
+
+
+
+---
+## Insert exercise title here
+
+```yaml
+type: PureMultipleChoiceExercise
+
+xp: undefined
+
+key: 33ac0b024a
+```
+
+
+
+
+
+
+
+
+
+
+
