@@ -18,7 +18,9 @@ key: 387e89786b
 "/><script>alert('sample')</script>
 
 `@instructions`
-"/><script>alert('sample')</script>
+"/><script>alert('sample')</script>a
+
+`@hint`
 
 
 
@@ -112,7 +114,7 @@ key: e8865ba7d7
 ```yaml
 type: PureMultipleChoiceExercise
 
-xp: undefined
+xp: NaN
 
 key: 33ac0b024a
 ```
