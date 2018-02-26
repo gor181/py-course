@@ -2,3 +2,4 @@ title: Course Title Here
 description: A description of the course.
 programming_language: python
 from: python-base-prod:20
+lti_only: true
