@@ -15,10 +15,12 @@ skills: 2
 key: 387e89786b
 ```
 
-does anything change, whydaa1 now
+does anything change, whydaa1 nowdsakdasnlda
 
 `@instructions`
 "/><script>alert('sample')</script>
+
+`@hint`
 
 
 
@@ -120,17 +122,13 @@ key: e8865ba7d7
 ```yaml
 type: NormalExercise
 
-xp: 
+xp: NaN
 
 key: 69fbf9bb2b
 ```
 
 NORMAL EX
 
-`@instructions`
-
-
-`@hint`
 
 
 
@@ -148,7 +146,7 @@ NORMAL EX
 ```yaml
 type: PureMultipleChoiceExercise
 
-xp: 
+xp: NaN
 
 key: c03326631d
 ```
@@ -156,17 +154,11 @@ key: c03326631d
 OK GORAN WAS HERE
 
 
-`@hint`
 
 
 
 
 
-
-`@possible_answers`
-
-
-`@feedbacks`
 
 
 
@@ -178,7 +170,7 @@ OK GORAN WAS HERE
 ```yaml
 type: PureMultipleChoiceExercise
 
-xp: 
+xp: NaN
 
 key: 42239a5edd
 ```
@@ -188,6 +180,66 @@ GORAN WAS HERE
 
 `@hint`
 HINT
+
+
+
+
+
+`@possible_answers`
+- [1]
+- 2
+
+`@feedbacks`
+- correct
+- not correct
+
+
+
+
+---
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+
+xp: 
+
+key: 5317ca5a06
+```
+
+goran was here 
+
+`@instructions`
+dsakjdsakldnas
+
+`@hint`
+
+
+
+
+
+
+
+
+
+
+
+---
+## Insert exercise title here
+
+```yaml
+type: PureMultipleChoiceExercise
+
+xp: 
+
+key: ce6d387751
+```
+
+assignment
+
+
+`@hint`
+hint
 
 
 
