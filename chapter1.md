@@ -15,7 +15,7 @@ skills: 2
 key: 387e89786b
 ```
 
-does anything change, whydaa1 nowdsakdasnlda
+goran was again ahere.
 
 `@instructions`
 "/><script>alert('sample')</script>
@@ -202,17 +202,15 @@ HINT
 ```yaml
 type: NormalExercise
 
-xp: 
+xp: NaN
 
 key: 5317ca5a06
 ```
 
-goran was here 
+goran was here
 
 `@instructions`
 dsakjdsakldnas
-
-`@hint`
 
 
 
@@ -230,7 +228,7 @@ dsakjdsakldnas
 ```yaml
 type: PureMultipleChoiceExercise
 
-xp: 
+xp: NaN
 
 key: ce6d387751
 ```

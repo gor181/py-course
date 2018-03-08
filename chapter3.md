@@ -15,7 +15,7 @@ xp: NaN
 key: 0214ad0fc6
 ```
 
-ok ok ok
+goran and ferdi
 
 
 `@hint`
@@ -42,7 +42,7 @@ hint
 ```yaml
 type: NormalExercise
 
-xp: undefined
+xp: NaN
 
 key: 7804988205
 ```
